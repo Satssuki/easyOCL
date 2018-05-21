@@ -8,7 +8,8 @@
 #include <string.h>
 #include <sys/stat.h>
 #include <CL/cl.h>
-#include "ocl.h"
+
+#include "../easyOCL/ocl.h"
 //static const OCLConfig ocl_cfg_defalut={};
 
 static char *strtok_rr(char *str, const char *delim, char **saveptr){

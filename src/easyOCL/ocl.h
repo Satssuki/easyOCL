@@ -8,7 +8,7 @@
 #ifndef OCL_H_
 #define OCL_H_
 #include <CL/cl.h>
-#include "Hash/Hash.h"
+#include "/Hash/Hash.h"
 
 #define _MAX_DEVICES_NUM 64
 
