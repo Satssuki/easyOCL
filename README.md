@@ -1,0 +1,2 @@
+# easyOCL
+easy OpenCL framework
